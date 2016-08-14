@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>colorizer JS</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script type="text/javascript" src="colorizer.js"></script>
+
+</head>
+<body>
+
+
+<div class="audio">
+    <div class="echolizer"></div>
+    <div class="colorizer"></div>
+    <div class="disk"></div>
+    <img src="cover.jpg">
+</div>
+
+
+<script type="application/javascript">
+    $.colorizer("div.colorizer", {
+        file: "Shahre_Man.mp3",
+        shadow: ".colorizer",
+        echolizer: ".echolizer"
+    });
+</script>
+
+
+</body>
+</html>

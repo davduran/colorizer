@@ -5,7 +5,7 @@
 
 ## demo (GIF)
 
-![colorizer](http://imgh.us/colorizer_demo.gif)
+![colorizer](http://imgh.us/colorizer_demo_1.gif)
 
 ## Example
 

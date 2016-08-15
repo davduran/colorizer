@@ -3,6 +3,10 @@
 * equalizer __audio__ player
 * Colorizer is an intersting jquery  plugin that makes you possible to create the lighte dancing on the cover of music
 
+## demo (GIF)
+
+![colorizer](http://imgh.us/colorizer_demo.gif)
+
 ## Example
 
 ```javascript
